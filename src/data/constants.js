@@ -74,7 +74,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
       },
       {
         name: "GitHub",
@@ -90,7 +90,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi_Qn4PSF8nvFjonBMUtxxxPSxBv80n8jmew&usqp=CAU",
       },
       
      
@@ -157,7 +157,7 @@ export const projects = [
     tags: ["html","css","javascript", "MongoDb", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/Souvik21122003/Task-Manager",
-    //webapp: "https://podstream.netlify.app/",
+    webapp: "https://task-manager-twfh.onrender.com/",
   },
   
   
